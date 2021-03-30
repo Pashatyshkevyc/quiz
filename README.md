@@ -1,2 +1,40 @@
-# quiz
-warm up quiz
+в•”в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•—
+в•‘ Warm-up quiz                                                                   в•‘
+в•‘                                                                                в•‘
+в•‘ Complete the quiz by correctly completing the statements.                      в•‘
+в•љв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ќ
+
+1. My ucode student email is ptyshkevyc@student.ucode.world
+2. My login in LMS is ptyshkevyc
+3. My display name in Slack is ptyshkevyc
+4. My current ucode program is Full stuck
+5. The operation systems I can use in my program are: ios, windows
+6. I plan to study offline [offline, both offline and online, online, undecided]
+
+7. This statement is True [True/False]:
+    Bullying significantly interferes with the learning process.
+8. This statement is False [True/False]:
+    It's allowed to bully someone who gave consent to it.
+9. This statement is True [True/False]:
+    If a student subscribes to an event, attendance is mandatory.
+
+10. The message: вЂI need help with understanding the topic in Sprint01вЂ™
+    belongs in the Slack channel #___general
+11. The message: вЂLMS is not displaying my name correctlyвЂ™
+    belongs in the Slack channel #___ucode_team
+12. The message: вЂThere is some cake in the canteen if anyone wants itвЂ™
+    belongs in the Slack channel #__random
+
+13. To create a file using the command line, I can run the command(s) touch
+14. To delete a file using the command line, I can run the command(s) del
+
+15. The three Git commands that I will use to submit my quiz are:
+        [1] clone quiz
+        [2] add "quiz completed"
+        [3] _____
+
+в•”в•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•—
+в•‘                                                                                в•‘
+в•‘ Once completed, submit it to your Git repository for the Warm-up challenge.    в•‘
+в•‘                                                                                в•‘
+в•љв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ђв•ќ
